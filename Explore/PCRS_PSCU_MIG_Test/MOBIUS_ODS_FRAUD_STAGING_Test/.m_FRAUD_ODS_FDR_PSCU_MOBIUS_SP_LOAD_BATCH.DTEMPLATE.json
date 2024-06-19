@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "98PVeR5prIIbWmUZibMRuR",
+    "name" : "m_FRAUD_ODS_FDR_PSCU_MOBIUS_SP_LOAD_BATCH",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0114Z8170000000000GB"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2024-06-19T05:53:08.633Z",
+  "objectRefs" : [ ]
+}

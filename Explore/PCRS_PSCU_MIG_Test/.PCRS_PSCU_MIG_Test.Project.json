@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "9oUx5Dlo8iahTbWSCm3kk2",
+    "name" : "PCRS_PSCU_MIG_Test",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Migrated project",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-06-19T05:53:08.631Z",
+  "objectRefs" : [ ]
+}
